@@ -1,3 +1,4 @@
+// This is the root module
 import { ApplicationConfig, provideZoneChangeDetection } from '@angular/core';
 import { provideRouter } from '@angular/router';
 
