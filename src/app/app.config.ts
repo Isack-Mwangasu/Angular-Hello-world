@@ -1,4 +1,4 @@
-// This is the root module
+// This is the root module this was the app.module.ts in previous versions of Angular
 import { ApplicationConfig, provideZoneChangeDetection } from '@angular/core';
 import { provideRouter } from '@angular/router';
 
